@@ -26,6 +26,7 @@ I turn ideas into usable digital products. My work connects product thinking, in
 
 | Project | What it explores |
 | :-- | :-- |
+| [Gayeongdang Hanok Stay](https://github.com/MuzaffarJr/gayeongdang-hanok-stay) · [Live demo](https://gayeongdang-hanok-demo.muzaffaransoriy.chatgpt.site) | Immersive 3D hanok hotel experience, room concepts and mobile booking inquiry |
 | [Orbit Studio 3D](https://github.com/MuzaffarJr/orbit-studio-3d) | Responsive landing page concept with a CSS 3D orbital hero and pointer interaction |
 | [T-Hisob](https://github.com/MuzaffarJr/T-Hisob) | AI-assisted tax workflows and clearer product experiences |
 | [Creative 3D UI](https://github.com/MuzaffarJr/creative-3d-ui) | Depth, motion and interaction for the web |
